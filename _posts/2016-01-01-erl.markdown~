@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Fast, robust, continuous monocular egomotion computation"
+date:   2016-01-01 00:00:00 +00:00
+image: /images/jaegle2016_teaser.png
+categories: research
+author: "Andrew Jaegle"
+authors: "<strong>Andrew Jaegle</strong>*, <a href='https://www.seas.upenn.edu/~stephi/'>Stephen Phillips</a>*, <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</a>"
+venue: "International Conference on Robotics and Automation (ICRA)"
+paper: https://arxiv.org/abs/1602.04886
+code: https://github.com/stephenphillips42/erl_egomotion
+---
+We develop robust methods for estimating camera motion in real-world video.

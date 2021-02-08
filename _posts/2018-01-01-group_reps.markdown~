@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Understanding image motion with group representations"
+date:   2018-01-01 00:00:00 +00:00
+image: /images/ICRA_2016_fig.png
+categories: research
+author: "Andrew Jaegle"
+authors: "<strong>Andrew Jaegle</strong>*, Stephen Phillips, Kostas Daniilidis"
+venue: "International Conference on Robotics and Automation (ICRA)"
+paper: https://arxiv.org/abs/1602.04886
+<!-- slides: /pdfs/crv19-slides.pdf --!>
+code: https://github.com/stephenphillips42/erl_egomotion
+---
+We develop robust methods for estimating camera motion in real-world video.

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Beyond Tabula-Rasa: a Modular Reinforcement Learning Approach for Physically Embedded 3D Sokoban"
+date:   2020-03-01 00:00:00 +00:00
+image: /images/karkus2020_teaser.png
+categories: research
+author: "Andrew Jaegle"
+authors: "<a href='https://karkus.tilda.ws/'>Peter Karkus</a>, <a href='https://memimo.net/'>Mehdi Mirza</a>, <a href='https://www.gatsby.ucl.ac.uk/~aguez/'>Arthur Guez</a>, <strong>Andrew Jaegle</strong>, <a href='https://contrastiveconvergence.net/'>Timothy Lillicrap</a>, <a href='https://scholar.google.co.uk/citations?user=1h_mxPMAAAAJ&hl'>Lars Buesing</a>, <a href='https://scholar.google.com/citations?user=79k7bGEAAAAJ&hl'>Nicolas Heess</a>, <a href='https://thphn.com/'>Théophane Weber</a>"
+venue: "ICLR workshop: Beyond tabula rasa in reinforcement learning"
+paper: https://arxiv.org/abs/2010.01298
+pdf: /pdfs/karkus2020beyond.pdf
+---
+We revisit the classic sense-plan-act structure to build a modular reinforcement learning agent that can efficiently solve physical tasks with abstract structure.

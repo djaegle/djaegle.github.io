@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Visual novelty, curiosity, and intrinsic reward in machine learning and the brain"
+date:   2019-04-01 00:00:00 +00:00
+image: /images/jaegle2019visual_teaser.png
+categories: research
+author: "Andrew Jaegle"
+authors: "<strong>Andrew Jaegle</strong>, <a href='https://scholar.google.com/citations?user=G4YlYZUAAAAJ&hl'>Vahid Mehrpour</a>, <a href='https://www.sas.upenn.edu/psych/rust-lab/'>Nicole Rust</a>"
+venue: "Current Opinion in Neurobiology"
+paper: https://www.sciencedirect.com/science/article/abs/pii/S0959438819300054
+pdf: /pdfs/jaegle2019visual.pdf
+
+---
+We draw connections between two literatures with important, but largely unappreciated, connections: intrinsic motivation in AI and visual novelty in neuroscience and psychology.

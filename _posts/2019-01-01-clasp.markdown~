@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Learning what you can do before doing anything"
+date:   2019-01-01 00:00:00 +00:00
+image: /images/ICRA_2016_fig.png
+categories: research
+author: "Andrew Jaegle"
+authors: "<a href='https://www.seas.upenn.edu/~oleh/'>Oleh Rybkin</a>*, <a href='https://kpertsch.github.io/'>Karl Pertsch</a>*, <a href='https://www.cs.ryerson.ca/kosta/'>Kosta Derpanis</a>, <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</a>, <strong>Andrew Jaegle</strong>"
+venue: "International Conference on Learning Representations (ICLR)"
+paper: https://arxiv.org/abs/1806.09655
+pdf: /pdfs/rybkin2018learning.pdf
+project: https://daniilidis-group.github.io/learned_action_spaces/
+video: https://www.youtube.com/watch?v=e2hVV5FDKf8&feature=youtu.be&ab_channel=KarlPertsch
+---
+We develop an unsupervised method that captures the latent structure of behavior from video using compositional, predictive models.

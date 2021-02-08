@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Emergence of invariant representation of vocalizations in the auditory cortex "
+date:   2015-01-01 00:00:00 +00:00
+image: /images/carruthers2015_teaser.png
+categories: research
+author: "Andrew Jaegle"
+authors: "<a href='https://scholar.google.com/citations?user=DcOA2usAAAAJ&hl'>Isaac Carruthers</a>, <a href='https://scholar.google.com/citations?user=6RPdc8IAAAAJ&hl'>Diego Laplagne</a>, <strong>Andrew Jaegle</strong>, <a href='https://www.janelia.org/people/john-briguglio'>John Briguglio</a>, <a href='https://scholar.google.com/citations?user=XZiF7vMAAAAJ&hl'>Laetitia Mwilambwe-Thilobo</a>, <a href='https://scholar.google.com/citations?user=3bH5HK4AAAAJ&hl'>Ryan Natan</a>, <a href='https://hosting.med.upenn.edu/hearing/'>Maria Geffen</a>"
+venue: "Journal of Neurophysiology"
+paper: https://journals.physiology.org/doi/full/10.1152/jn.00095.2015
+pdf: /pdfs/carruthers2015emergence.pdf
+---
+We characterize how nuisance transformations -- changes to a sound that don't change its meaning, like saying the same word faster or slower -- are tuned out as signals moves from an earlier to a later stage of auditory cortex.
