@@ -10,4 +10,4 @@ venue: "International Conference on Learning Representations (ICLR)"
 paper: https://arxiv.org/abs/1909.13789
 pdf: /pdfs/toth2020hamiltonian.pdf
 ---
-We develop methods for learning the structure of physical systems from video without supervision using generative models built with ideas from Hamiltonian mechanics.
+Methods for learning the structure of physical systems from video without supervision using generative models built with ideas from Hamiltonian mechanics.

@@ -11,4 +11,4 @@ paper: https://arxiv.org/abs/1904.05869
 project: https://sites.google.com/view/keyin
 pdf: /pdfs/pertsch2019keyframing.pdf
 ---
-We develop a model that first predicts important moments in the future and then uses these to infer the missing details, without supervision.
+A model that first predicts important moments in the future and then uses these to infer the missing details, without supervision.

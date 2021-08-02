@@ -12,4 +12,4 @@ pdf: /pdfs/mirza20physically.pdf
 code: https://github.com/deepmind/deepmind-research/tree/master/physics_planning_games
 video: https://www.youtube.com/watch?v=RwHiHlym_1k&feature=youtu.be&ab_channel=DrewJaegle
 ---
-We introduce a suite of difficult Mujoco domains that pair high-level, abstract structure with physical embodiment. These domains are very challenging for current black-box RL methods, but can be solved by building in high-level structure: we challenge you to bridge this gap!
+A suite of difficult Mujoco domains that pair high-level, abstract structure with physical embodiment. These domains are very challenging for current black-box RL methods, but can be solved by building in high-level structure: we challenge you to bridge this gap!

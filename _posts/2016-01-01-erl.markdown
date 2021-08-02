@@ -11,4 +11,4 @@ paper: https://arxiv.org/abs/1602.04886
 pdf: /pdfs/jaegle2016fast.pdf
 code: https://github.com/stephenphillips42/erl_egomotion
 ---
-We develop robust methods for estimating camera motion in real-world video by reasoning about the contribution of each element of an optic flow field to the global motion estimate.
+Robust methods for estimating camera motion in real-world video by reasoning about the contribution of each element of an optic flow field to the global motion estimate.

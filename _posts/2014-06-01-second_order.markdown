@@ -10,4 +10,4 @@ venue: "Journal of Neuroscience"
 paper: https://www.jneurosci.org/content/34/34/11177
 pdf: /pdfs/sarvestani2014second.pdf
 ---
-We critically review Fournier et al's <a href="https://www.jneurosci.org/content/34/16/5515">work</a> characterizing the structure of synaptic receptive fields in visual cortex.
+A critical review of Fournier et al's <a href="https://www.jneurosci.org/content/34/16/5515">work</a> characterizing the structure of synaptic receptive fields in visual cortex.

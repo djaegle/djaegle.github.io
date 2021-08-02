@@ -10,4 +10,4 @@ venue: "Journal of Neurophysiology"
 paper: https://journals.physiology.org/doi/full/10.1152/jn.00095.2015
 pdf: /pdfs/carruthers2015emergence.pdf
 ---
-We characterize how nuisance transformations -- changes to a sound that don't change its meaning, like saying the same word faster or slower -- are tuned out as signals moves from an earlier to a later stage of auditory cortex.
+How nuisance transformations -- changes to a sound that don't change its meaning, like saying the same word faster or slower -- are tuned out as signals moves from an earlier to a later stage of auditory cortex.

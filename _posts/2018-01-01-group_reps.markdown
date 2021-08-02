@@ -10,4 +10,4 @@ venue: "International Conference on Learning Representations (ICLR)"
 paper: https://arxiv.org/abs/1612.00472
 pdf: /pdfs/jaegle2018understanding.pdf
 ---
-We develop simple methods for unsupervised learning of motion in videos using ideas from group theory.
+A simple method for unsupervised learning of motion in videos using ideas from group theory.

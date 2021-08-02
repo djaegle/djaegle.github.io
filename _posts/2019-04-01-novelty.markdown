@@ -11,4 +11,4 @@ paper: https://www.sciencedirect.com/science/article/abs/pii/S0959438819300054
 pdf: /pdfs/jaegle2019visual.pdf
 
 ---
-We draw connections between two literatures with important, but largely unappreciated, connections: intrinsic motivation in AI and visual novelty in neuroscience and psychology.
+Connections between two literatures with important, but largely unappreciated, connections: intrinsic motivation in AI and visual novelty in neuroscience and psychology.

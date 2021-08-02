@@ -10,4 +10,4 @@ venue: "eLife"
 paper: https://elifesciences.org/articles/47596
 pdf: /pdfs/jaegle2019population.pdf
 ---
-We identify a simple signature of an image's memorability -- how easy it is for people to remember, compared to other images -- that is shared by the brain and convolutional neural networks.
+A simple signature of an image's memorability -- how easy it is for people to remember, compared to other images -- that is shared by the brain and convolutional neural networks.

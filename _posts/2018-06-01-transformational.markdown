@@ -10,4 +10,4 @@ venue: "arXiv"
 paper: https://arxiv.org/abs/1803.09760
 pdf: /pdfs/jaegle2018predicting.pdf
 ---
-We develop methods for video prediction by reasoning about changes to static content in a learned latent space. Check out <a href="https://medium.com/@olegrybkin_20684/the-reasonable-ineffectiveness-of-mse-pixel-loss-for-future-prediction-and-what-to-do-about-it-4dca8152355d">Oleh's blog post</a> discussing some of the problems with using standard reconstruction losses.
+Methods for video prediction by reasoning about changes to static content in a learned latent space. Check out <a href="https://medium.com/@olegrybkin_20684/the-reasonable-ineffectiveness-of-mse-pixel-loss-for-future-prediction-and-what-to-do-about-it-4dca8152355d">Oleh's blog post</a> discussing some of the problems with using standard reconstruction losses.
