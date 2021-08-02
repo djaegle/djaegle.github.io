@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Imitation by Predicting Observations"
+date:   2021-01-04 00:00:00 +00:00
+image: /images/jaegle2021form.jpg
+categories: research
+author: "Andrew Jaegle"
+authors: "<strong>Andrew Jaegle</strong>, <a href='https://dblp.org/search/pid/api?q=author:Yury_Sulsky'>Yury Sulsky</a>, <a href='https://scholar.google.co.uk/citations?user=HFV9GmMAAAAJ&hl=en'>Arun Ahuja</a>, <a href='http://jakebruce.ca/'>Jake Bruce</a>, <a href='https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php'>Rob Fergus</a>, <a href='https://dblp.org/pid/150/8612.html'>Greg Wayne</a>"
+venue: "International Conference on Machine Learning (ICML)"
+paper: https://arxiv.org/abs/2107.03851
+pdf: /pdfs/jaegle2021form.pdf
+---
+Imitation from observations by sequence modeling using a framework for robust, non-adversarial inverse reinforcement learning.

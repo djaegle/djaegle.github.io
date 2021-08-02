@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Temporal Difference and Return Optimism in Cooperative Multi-Agent Reinforcement Learning"
+date:   2021-01-02 00:00:00 +00:00
+image: /images/rowland2021optimism.png
+categories: research
+author: "Andrew Jaegle"
+authors: "<a href='https://sites.google.com/view/markrowland'>Mark Rowland</a>, <a href='https://shayegano.github.io/'>Shayegan Omidshafiei</a>, <a href='https://scholar.google.com/citations?user=cMHsYdcAAAAJ&hl'>Daniel Hennes</a>, <a href='https://willdabney.com/'>Will Dabney</a>, <strong>Andrew Jaegle</strong>, <a href='https://scholar.google.com/citations?user=mvb2bX0AAAAJ&hl'>Paul Muller</a>, <a href='https://scholar.google.com/citations?user=3DBCJt0AAAAJ&hl'>Julien Pérolat</a>, <a href='https://www.karltuyls.net/'>Karl Tuyls</a>"
+venue: "Journal of Artificial Intelligence Research (JAIR)"
+paper: https://ala2021.vub.ac.be/#accepted
+pdf: /pdfs/rowland2021temporal.pdf
+---
+How to use optimism to encourage agents to learn in the presence of other, suboptimal agents in multi-agent reinforcement learning.
