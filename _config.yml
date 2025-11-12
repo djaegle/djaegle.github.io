@@ -91,3 +91,11 @@ exclude:
   - todo.txt
   - _temp/index.html
   - _temp/
+  - gems/
+  - bin/
+  - cache/
+  - build_info/
+  - extensions/
+  - specifications/
+  - plugins/
+  - doc/
