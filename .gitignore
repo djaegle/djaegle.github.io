@@ -2,6 +2,7 @@ _site
 .DS_Store
 .jekyll
 .jekyll-metadata
+.jekyll-cache/
 .bundle
 .sass-cache
 Gemfile
@@ -10,3 +11,12 @@ node_modules
 package.json
 tn/
 favicon.ico
+
+# Local Ruby/Bundler (vendor install)
+vendor/
+bin/
+cache/
+extensions/
+gems/
+specifications/
+.ruby-version
