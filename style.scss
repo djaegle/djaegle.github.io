@@ -85,10 +85,15 @@ a:hover {
 
 /* Media section */
 .media h2 {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   color: var(--text);
-  margin-bottom: 12px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.media h2:first-child {
+  margin-top: 0;
 }
 
 .media-list {
